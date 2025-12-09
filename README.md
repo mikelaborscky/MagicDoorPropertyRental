@@ -36,7 +36,7 @@ A full-featured platform that allows users to browse, list, rent, and manage pro
 - Smart Contract Integration (Solidity) enabling cross-network rental logic and escrow features
 
 **Blockchain Layer**
-- Ethereum / Polygon as the underlying blockchain networks
+- Ethereum / Polygon / BNB testnet as the underlying blockchain networks
 - Smart Contracts for On-chain rental escrow, Ownership verification or etc.,
 - Multichain Wallet Support (Metamask, WalletConnect, Coinbase, OKX, ...)
 - IPFS / Pinata for decentralized storage of property metadata or media assets
