@@ -1,0 +1,1 @@
+export const contractAddress = '0x4d0bc25a3604242C13f7DdaA519733c36652eC6f'; // smart contract address bnb testnet
