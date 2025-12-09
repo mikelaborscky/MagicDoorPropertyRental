@@ -27,13 +27,13 @@ A full-featured platform that allows users to browse, list, rent, and manage pro
 - Web3.js / Ether.js for blockchain and multichain wallet integrations
 
 **Backend**
-- Node.js for high-throughput backend operations
-- Express.js for modular API design
-- MongoDB / PostgreSQL for flexible data persistence
-- JWT Authentication for secure, statelss auth flows
-- Socket.io for optional real-time features
-- Web3 Providers (Infura / Alchemy) for multichain support
-- Smart Contract Integration (Solidity) enabling cross-network rental logic and escrow features
+- Node.js for high-throughput backend operations (yes)
+- Express.js for modular API design  (yes)
+- MongoDB / PostgreSQL for flexible data persistence (no)
+- JWT Authentication for secure, statelss auth flows  (no)
+- Socket.io for optional real-time features  (no)
+- Web3 Providers (Infura / Alchemy) for multichain support  (yes)
+- Smart Contract Integration (Solidity) enabling cross-network rental logic and escrow features  (yes)
 
 **Blockchain Layer**
 - Ethereum / Polygon / BNB testnet as the underlying blockchain networks
